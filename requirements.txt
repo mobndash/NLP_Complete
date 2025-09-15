@@ -5,3 +5,4 @@ ipykernel
 seaborn
 nltk # Remove StopWords
 spacy
+scikit-learn
