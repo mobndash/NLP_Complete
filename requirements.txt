@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+ipykernel
+seaborn
+nltk # Remove StopWords
+spacy
